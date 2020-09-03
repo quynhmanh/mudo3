@@ -4,7 +4,7 @@
   "description": "This is a minimal repository to help with debugging [this](https://github.com/GoogleChrome/puppeteer/issues/3651) issue.",
   "main": "test.js",
   "dependencies": {
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.13.0"
   },
   "devDependencies": {},
   "scripts": {
